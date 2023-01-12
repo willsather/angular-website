@@ -1,2 +1,2 @@
 # angular-website
-angular version of my website
+a version of my website in angular
